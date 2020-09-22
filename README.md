@@ -21,11 +21,11 @@ https://www.youtube.com/watch?v=qmOSSqpHAws
 https://www.keebtalk.com/t/which-lube-for-switch-lube-an-updated-guide-on-the-what-how-and-where-of-switch-lubricants/5052
 
 ### Stabilizer lube to use
-Broke: Permatex for wire, teflon grease for stem
+Broke: Permatex for wire, teflon grease for housing
 
-Slightly less broke: Permatex for wire, 205g0 for the stem
+Slightly less broke: Permatex for wire, 205g0 for the housing
 
-Rich: 205g0 for awire and stem
+Rich: 205g0 for wire and stem
 
 ### Difference between G0 and G2
 As per Switchmod.net:
@@ -66,7 +66,7 @@ Gasket to buy (60%, may also be compatible with 65%?): https://www.theoringstore
 - Maxkey - SA - China 
 - Keyreative - OEM/KAT - China
 - Tai-Hao - OEM/Cubic - Taiwan
-- HK Gaming - OEM - Hong Kong
+- HK Gaming - Cherry - Hong Kong
 
 
 ### Different keycap profiles
